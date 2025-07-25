@@ -1,0 +1,8 @@
+bbox: 23.1461, 35.9819, 23.6552, 36.3307
+use_case_directory: crete_test_pipeline_2024
+start_date: 2024-07-15
+time_interval: 2
+verbose: false  # Optional
+debug: true  # Optionalù
+asf_username: <username>
+asf_password: <password>

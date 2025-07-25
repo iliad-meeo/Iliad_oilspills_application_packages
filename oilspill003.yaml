@@ -1,0 +1,8 @@
+db_list:
+  class: File
+  path: crete_test_pipeline_2024/intermediate_dir/db_paths.txt
+use_case_directory:
+  class: Directory
+  path: crete_test_pipeline_2024
+verbose: true  # Optional 
+debug: true  # Optional

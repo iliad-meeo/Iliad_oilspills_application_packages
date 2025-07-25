@@ -1,0 +1,9 @@
+bbox: 7.5609, 2.9304, 8.2894, 3.4328
+use_case_directory: nigeria
+start_date: 2020-01-21
+time_interval: 1
+verbose: false  # Optional
+debug: true  # Optional
+asf_username: <username>
+asf_password: <password>
+

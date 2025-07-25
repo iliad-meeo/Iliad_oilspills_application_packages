@@ -1,0 +1,8 @@
+use_case_directory: 
+  class: Directory
+  path: crete_test_pipeline_2024
+sentinel_list: 
+  class: File
+  path: crete_test_pipeline_2024/raw_sentinel/sentinel_paths.txt
+verbose: true
+debug: true
