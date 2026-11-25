@@ -1,11 +1,11 @@
 use_case_directory: 
   class: Directory
-  path: crete_test_pipeline_2024
+  path: crete_test_cwl
 sentinel_list: 
   class: File
-  path: crete_test_pipeline_2024/raw_sentinel/sentinel_paths.txt
+  path: crete_test_cwl/raw_sentinel/sentinel_paths.txt
 csv_output_path: 
   class: File
-  path: crete_test_pipeline_2024/intermediate_dir/csv_paths.txt
+  path: crete_test_cwl/intermediate_dir/csv_paths.txt
 verbose: true
 debug: true

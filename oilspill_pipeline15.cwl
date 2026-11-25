@@ -232,7 +232,7 @@ $graph:
   
   requirements:
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill001:1.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill001:1.0.0
     - class: NetworkAccess
       networkAccess: true
     - class: InlineJavascriptRequirement
@@ -347,7 +347,7 @@ $graph:
           entry: $(inputs.use_case_directory)
           writable: true
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill002:1.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill002:1.0.0
     - class: NetworkAccess
       networkAccess: true
     - class: InlineJavascriptRequirement
@@ -474,7 +474,7 @@ $graph:
           entry: $(inputs.use_case_directory)
           writable: true
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill003:2.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill003:2.0.0
     - class: NetworkAccess
       networkAccess: true
     - class: InlineJavascriptRequirement
@@ -603,7 +603,7 @@ $graph:
           entry: $(inputs.use_case_directory)
           writable: true
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill005:2.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill005:2.0.0
     - class: NetworkAccess
       networkAccess: true
     - class: InlineJavascriptRequirement

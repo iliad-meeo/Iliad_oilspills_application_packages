@@ -64,7 +64,7 @@ $graph:
           writable: true
           entry: $(inputs.use_case_directory)
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill002:1.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill002:1.0.0
     - class: NetworkAccess
       networkAccess: true
 

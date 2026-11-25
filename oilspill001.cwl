@@ -93,7 +93,7 @@ $graph:
 
   requirements:
     - class: DockerRequirement
-      dockerPull: registry.services.meeo.it/outmani/iliad_oil_spill_pilot/oilspill001:1.0.0
+      dockerPull: registry.services.meeo.it/iliad/iliad_oil_spill_pilot/oilspill001:1.0.0
     - class: NetworkAccess
       networkAccess: true
     - class: InlineJavascriptRequirement

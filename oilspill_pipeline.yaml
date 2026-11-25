@@ -1,6 +1,6 @@
-bbox: 7.5609, 2.9304, 8.2894, 3.4328
-use_case_directory: nigeria
-start_date: 2020-01-21
+bbox: 24.07, 35.70, 24.69, 36.26
+use_case_directory: crete_test_cwl
+start_date: 2023-06-27
 time_interval: 1
 verbose: false  # Optional
 debug: true  # Optional
